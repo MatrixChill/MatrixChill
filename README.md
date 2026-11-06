@@ -1,4 +1,4 @@
-![Caio Amorim — desenvolvimento de software](assets/banner.svg)
+![Caio Amorim — desenvolvimento de software](assets/banner-cybersafe.png)
 
 # Olá! Sou o Caio Amorim.
 
