@@ -8,6 +8,8 @@ Gosto de compreender como as peças se ligam: uma interface clara, um serviço q
 
 ## Projeto em destaque
 
+<a href="https://github.com/MatrixChill/cybersafe-assistant"><img src="assets/cybersafe-logo.png" alt="Logótipo oficial CyberSafe Assistant" width="96" height="96"></a>
+
 ### [CyberSafe Assistant](https://github.com/MatrixChill/cybersafe-assistant)
 
 Aplicação Windows desenvolvida no âmbito da **Prova de Aptidão Profissional**, com integração de motores de análise e assistência **MATRIX**.
